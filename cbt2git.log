@@ -1,0 +1,10 @@
+2023-08-06 06:24:25.964888 - Initialized conversion of CBT673
+2023-08-06 06:24:26.021014 - Received CBT.V505.FILE673.PDS from FILE673.XMI 
+2023-08-06 06:24:26.023463 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:24:26.024427 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:24:26.025472 - Found $$TOC.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/$$TOC
+2023-08-06 06:24:26.026479 - Found $README.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/$README
+2023-08-06 06:24:26.027382 - Found $USERDOC.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/$USERDOC
+2023-08-06 06:24:26.028324 - Found @FILE673.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/@FILE673
+2023-08-06 06:24:26.029275 - Found ASMJCL.jcl (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/ASMJCL
+2023-08-06 06:24:26.030196 - Found CCFDELET.txt (text/plain) in CBT.V505.FILE673.PDS, moved to PDS/CCFDELET
