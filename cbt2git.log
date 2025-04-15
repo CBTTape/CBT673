@@ -1,9 +1,9 @@
-2025-04-13 21:43:06.580668 - Received CBT.V508.FILE673.PDS from FILE673.XMI 
-2025-04-13 21:43:06.581707 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:43:06.581807 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$NOTE1
-2025-04-13 21:43:06.581886 - Found $$TOC.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$TOC
-2025-04-13 21:43:06.581962 - Found $README.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$README
-2025-04-13 21:43:06.582038 - Found $USERDOC.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$USERDOC
-2025-04-13 21:43:06.582135 - Found @FILE673.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/@FILE673
-2025-04-13 21:43:06.582227 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/ASMJCL
-2025-04-13 21:43:06.582334 - Found CCFDELET.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/CCFDELET
+2025-04-15 04:38:52.220109 - Received CBT.V508.FILE673.PDS from FILE673.XMI 
+2025-04-15 04:38:52.221143 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:38:52.221678 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$NOTE1
+2025-04-15 04:38:52.221897 - Found $$TOC.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$$TOC
+2025-04-15 04:38:52.222100 - Found $README.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$README
+2025-04-15 04:38:52.222310 - Found $USERDOC.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/$USERDOC
+2025-04-15 04:38:52.222514 - Found @FILE673.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/@FILE673
+2025-04-15 04:38:52.222716 - Found ASMJCL.jcl (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/ASMJCL
+2025-04-15 04:38:52.223160 - Found CCFDELET.txt (text/plain) in CBT.V508.FILE673.PDS, moved to PDS/CCFDELET
